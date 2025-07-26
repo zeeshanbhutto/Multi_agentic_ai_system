@@ -1,0 +1,10 @@
+[project]
+name = "agentic-folder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chainlit>=2.6.2",
+    "openai-agents>=0.2.3",
+]
